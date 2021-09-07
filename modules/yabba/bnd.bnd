@@ -1,0 +1,4 @@
+Bundle-Name: yabba
+Bundle-SymbolicName: com.pakfro.yabba
+Bundle-Version: 1.0.0
+Export-Package: com.pakfro.yabba.constants
