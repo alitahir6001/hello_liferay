@@ -13,6 +13,4 @@ Here's a high level view of what I learned from this demo:
   - Able to simulate what a potential visitor to the site would see across various devices
   
 
-There were a lot of challenges I had to overcome during this learning cycle, including:
-1. Figuring out how to view my IntelliJ project on the localhost - navigating the Gradle tasks to build, and deploy the project and create the .jar file. I didn't quite understand _where_ the the pages I created in the Liferay UI were being kept until it clicked I had to build --> deploy.
- 2.   
+Obviously, as a complete beginner to Liferay there are learning opportunities and challenges abound. Once things started to click though, I started to figure out how the flow of data was traveling and did some things
