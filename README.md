@@ -13,4 +13,5 @@ Here's a high level view of what I learned from this demo:
   - Able to simulate what a potential visitor to the site would see across various devices
   
 
-Obviously, as a complete beginner to Liferay there are learning opportunities and challenges abound. Once things started to click though, I started to figure out how the flow of data was traveling and did some things
+Obviously, as a complete beginner to Liferay there are learning opportunities and challenges abound. Once I started to figure out how the flow of data was traveling things started to click a little more. A lot of this was just pure trial and error, where I broke a lot of projects/workspaces and created new ones to restart the process. Understanding the folder structure was critical to that data flow, as was realizing that I needed to have gradle build --> deploy the project before I could add it to my DXP task. 
+
