@@ -1,4 +1,4 @@
- # First Liferay repo  (still editing)
+ # First Liferay repo  
  
  ### This is a repo of select files/directories from my first Liferay module.
  
